@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 2617556e3beecc44691d330c0c7a10c9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_pika_0
+    21300002: sprite_pika_1
+    21300004: sprite_pika_2
+    21300006: sprite_pika_3
+    21300008: sprite_pika_4
+    21300010: sprite_pika_5
+    21300012: sprite_pika_6
+    21300014: sprite_pika_7
+    21300016: sprite_pika_8
+    21300018: sprite_pika_9
+    21300020: sprite_pika_10
+    21300022: sprite_pika_11
+    21300024: sprite_pika_12
+    21300026: sprite_pika_13
+    21300028: sprite_pika_14
+    21300030: sprite_pika_15
+    21300032: sprite_pika_16
+    21300034: sprite_pika_17
+    21300036: sprite_pika_18
+    21300038: sprite_pika_19
+    21300040: sprite_pika_20
+    21300042: sprite_pika_21
+    21300044: sprite_pika_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite_pika_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2960
+        width: 268
+        height: 501
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2980
+        width: 219
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_2
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2980
+        width: 219
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_3
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2980
+        width: 218
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2455
+        width: 376
+        height: 468
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2438
+        width: 385
+        height: 464
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2438
+        width: 385
+        height: 464
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_8
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2365
+        width: 371
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1764
+        width: 297
+        height: 505
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1750
+        width: 301
+        height: 519
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_11
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1771
+        width: 273
+        height: 514
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_12
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1764
+        width: 266
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1229
+        width: 257
+        height: 494
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1263
+        width: 360
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1263
+        width: 359
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_16
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1246
+        width: 371
+        height: 464
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 650
+        width: 372
+        height: 465
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 650
+        width: 372
+        height: 465
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_19
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 604
+        width: 275
+        height: 462
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_20
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 575
+        width: 326
+        height: 491
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_pika_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 259
+        height: 498
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
